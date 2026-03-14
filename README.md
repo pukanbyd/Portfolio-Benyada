@@ -20,6 +20,12 @@ Third- year student in Statistics and Data Science at Chulalongkorn University
 - Worked collaboratively as part of a group project
 - Google Colab : https://colab.research.google.com/drive/1zEnPJ09SU6H3d0GkDbBcQWWoVB1NkRKQ#scrollTo=VkEZLz9vkIJa
 
+### Global Earthquake-Tsunami Risk Assessment - Machine Learning Project (Nov 2025)
+- built a binary classification model to predict whether an earthquake would trigger a tsunami using geological features such as magnitude, depth, and other seismic indicators
+- evaluated Random Forest and XGBoost models using metrics including ROC–AUC, confusion matrix, and recall
+- selected the better-performing model based on evaluation metrics, with a focus on recall to reduce false negatives
+- analyzed which geological factors contributed most to the prediction performance
+
 ## Extracurricular Activities
 ### Attendee - OIC Be Smart First Jobber INNOVATIVE Insurance Idea Competition, Chulalongkorn University (Nov 2023)
 - analyzed business challenges to address key issues 
@@ -29,7 +35,7 @@ Third- year student in Statistics and Data Science at Chulalongkorn University
 - welcomed attendees
 - arranged meals for participants and staff
 
-### HR Staff - TItisumpan 2025า, Off campus Camp (Oct 2025)
+### HR Staff - TItisumpan 2025, Off campus Camp (Oct 2025)
 - managed participant application forms and registration processes  
 - assisted with on-site registration during the camp  
 - coordinated with other teams to support activities during the event
