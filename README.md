@@ -23,7 +23,7 @@ Third- year student in Statistics and Data Science at Chulalongkorn University
 ### Global Earthquake-Tsunami Risk Assessment - Machine Learning Project (Nov 2025)
 - built a binary classification model to predict whether an earthquake would trigger a tsunami using geological features such as magnitude, depth, and other seismic indicators
 - evaluated Random Forest and XGBoost models using metrics including ROC–AUC, confusion matrix, and recall
-- selected the better-performing model based on evaluation metrics, with a focus on recall to reduce false negatives
+- selected the best model based on evaluation metrics, with a focus on recall to reduce false negatives
 - analyzed which geological factors contributed most to the prediction performance
 - Google Colab : https://colab.research.google.com/drive/1krswZmZ22WYBHoShYDhplfgHm5Gyu2g0?usp=sharing
 
