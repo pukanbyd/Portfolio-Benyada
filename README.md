@@ -25,6 +25,7 @@ Third- year student in Statistics and Data Science at Chulalongkorn University
 - evaluated Random Forest and XGBoost models using metrics including ROC–AUC, confusion matrix, and recall
 - selected the better-performing model based on evaluation metrics, with a focus on recall to reduce false negatives
 - analyzed which geological factors contributed most to the prediction performance
+- Google Colab : https://colab.research.google.com/drive/1krswZmZ22WYBHoShYDhplfgHm5Gyu2g0?usp=sharing
 
 ## Extracurricular Activities
 ### Attendee - OIC Be Smart First Jobber INNOVATIVE Insurance Idea Competition, Chulalongkorn University (Nov 2023)
