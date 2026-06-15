@@ -5,7 +5,7 @@ Third- year student in Statistics and Data Science at Chulalongkorn University
 
 ## Internship Experience
 ### Export-Import Bank of Thailand (Jun 2026 - Present)
-- built interactive Power BI dashboards by cleaning data, creating table relationships, and developing DAX measures
+- built interactive Power BI dashboards by performing data cleaning, designing data models with table relationships, and developing DAX measures to support business analysis.
 
 ### ODDS (Jun 2025 - Jul 2025)
 - collaborated with the team throughout each sprint, contributing to planning, progress updates, and post-sprint reviews
