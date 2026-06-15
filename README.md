@@ -15,8 +15,8 @@ Third- year student in Statistics and Data Science at Chulalongkorn University
 - More details about my internship experience :  https://medium.com/@benyada.bubpasiri/2-เดือนกับการเป็นเด็กฝึกงานครั้งแรกที่-odds-b4c30f67a66f
 - Interactive prototype of internship project (Figma) : https://grey-time-44296112.figma.site
 
-## Group Projects
-### Food Preference Analysis - Data Cleaning, EDA & Feature Engineering
+## Group Projects 
+### Food Preference Analysis - Data Cleaning, EDA & Feature Engineering (Mar 2026)
 - cleaned and preprocessed raw data to ensure data quality and consistency (e.g., handling missing value, correcting inconsistencies)
 - performed exploratory data analysis (EDA) to identify patterns and relationships in taste preferences
 - applied feature engineering techniques (e.g., encoding categorical variables, creating derived features) to improve data representation
@@ -36,7 +36,7 @@ Third- year student in Statistics and Data Science at Chulalongkorn University
 - Worked collaboratively as part of a group project
 - Google Colab : https://colab.research.google.com/drive/1zEnPJ09SU6H3d0GkDbBcQWWoVB1NkRKQ#scrollTo=VkEZLz9vkIJa
 
-### 2026 Election Data Interactive Visualization Project
+### 2026 Election Data Interactive Visualization Project (Apr 2026)
 - contributed to an interactive game project by supporting quality assurance and gameplay testing
 - conducted testing to identify bugs, usability Issues, and inconsistencies in game flow
 - analyzed election data to extract insights for use within the game
